@@ -1,3 +1,2 @@
-Hi,we are learning Git together.
-Have a good time!
-hhh
+# git_learning
+It's just a record for learning git
